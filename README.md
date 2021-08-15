@@ -5,7 +5,7 @@
 
 dongbanqiu全网最简单易上手，dagaishi可读性最强的 AST 处理工具！daimazhuanhuancongweirucijiandan
 
-官网：https://gogocode.io
+官网123456：https://gogocode.io
 
 简介：[阿里妈妈出的新工具，给批量修改项目代码减轻了痛苦](https://juejin.cn/post/6938601548192677918)
 
